@@ -1,1 +1,1 @@
-I learned how to use Git and GitHub. I created branches, pull requests, and collaborated using forks.
+I learned how to use Git and GitHub. I can now create branches, pull requests, and collaborate!
