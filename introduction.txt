@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hi, I’m Albine Uwase, a beginner exploring GitHub and ALX development. I’m passionate about learning how to build web-based systems and automate tasks using scripting languages like programing and Bash.
+
+I enjoy solving real-world problems through creative coding and look forward to growing my technical skills to contribute to meaningful projects.
