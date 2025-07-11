@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Strengthen my JavaScript and build interactive user interfaces.
+- Explore full-stack web development with Flask and databases.
+- Complete two major personal coding projects.
+- Improve hardware troubleshooting and system connectivity skills.
+- Contribute to open-source or tech learning communities.
