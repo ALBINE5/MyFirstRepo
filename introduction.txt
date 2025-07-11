@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Hello! My name is Uwase Harelimana Albine. I am currently studying Transportation Engineering at the University of Rwanda and pursuing a Data Science track at ALX. I am passionate about using technology and sustainable practices to make real-world impact.
 
 In my free time, I enjoy working on community-building projects and volunteering. I’m excited to begin my GitHub journey to showcase my projects, collaborate with others, and grow my programming and data science skills!
+=======
+Brief Introduction About Myself
+
+Hi, I’m Albine Uwase, a beginner exploring GitHub and ALX development. I’m passionate about learning how to build web-based systems and automate tasks using scripting languages like programing and Bash.
+
+I enjoy solving real-world problems through creative coding and look forward to growing my technical skills to contribute to meaningful projects.
+>>>>>>> 034bd9c4d66139f7e97bdc60265a454b9244ec13
