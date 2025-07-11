@@ -1,0 +1,7 @@
+My Personal and Academic Goals for Next Year
+
+- Improve my fluency in JavaScript and build interactive web applications.
+- Deepen my understanding of databases and integration in full-stack systems.
+- Complete at least two major coding projects, including GUI and web-based systems.
+- Explore advanced Git workflows to improve my version control habits.
+- Help others learn by contributing to open-source or community projects.
